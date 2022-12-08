@@ -1,0 +1,197 @@
+voters_id,first_name,last_name,birthdate,gender,email,country,first_vote_date,total_votes
+1,carol,Rai,1/15/1989,F ,carol8@yahoo.com,Denmark,3/9/2015,136
+2,Ana,Price,2/17/1987,F ,ana0@gmail.com,France,1/17/2015,124
+3,melissa,Richardson,4/25/1989,F ,melissa31@yahoo.com,Denmark,4/9/2015,145
+4,Angela,Griffin,3/8/1993,F ,angela23@gmail.com,Belgium,12/30/2015,52
+5,Grace,Henderson,1/30/1968,F ,grace52@yahoo.com,USA,6/2/2015,147
+6,melody,Ramos,1/30/1969,F ,melody17@yahoo.com,USA,1/8/2013,90
+7,clinton,Moreno,5/5/1990,M ,clinton3@yahoo.com,Denmark,1/19/2013,63
+8,Kaylee,Cook,5/5/1991,F ,kaylee18@yahoo.com,Switzerland,9/17/2013,58
+9,Dennis,Huang,3/11/1972,M ,dennis7@yahoo.com,USA,10/29/2013,110
+10,Julia,Brooks,5/5/1972,F ,julia63@yahoo.com,United Kingdom,7/16/2015,72
+11,Devin,Henderson,1/30/1970,M ,devin43@yahoo.com,USA,10/29/2013,126
+12,Gabrielle,Cox,5/13/1979,F ,gabrielle10@yahoo.com,Germany,9/25/2015,55
+13,Jose,Wright,5/22/1986,M ,jose56@yahoo.com,Austria,8/16/2015,109
+14,Seth,Martin,6/3/1987,M ,seth15@yahoo.com,Mexico,11/9/2013,162
+15,clayton,Sharma,6/3/1986,M ,clayton27@yahoo.com,Austria,12/28/2013,76
+16,Amy,Huang,5/22/1986,F ,amy13@gmail.com,Austria,2/16/2015,101
+17,michele,Suarez,5/15/1986,F ,michele53@yahoo.com,Austria,7/10/2014,20
+18,Kurt,Jai,5/13/1972,M ,kurt11@yahoo.com,United Kingdom,2/27/2015,28
+19,Sebastian,Rogers,4/21/1995,M ,sebastian18@yahoo.com,Belgium,1/6/2016,94
+20,Trisha,Ma,2/17/1989,F ,trisha10@yahoo.com,Denmark,12/31/2013,48
+21,Eugene,Zhu,6/5/1987,M ,eugene18@gmail.com,China,1/4/2014,176
+22,cedric,Lin,2/20/1990,M ,cedric8@yahoo.com,Belgium,6/6/2015,39
+23,Julie,Becker,4/21/1996,F ,julie22@yahoo.com,Belgium,4/26/2015,189
+24,Sandra,He,5/13/1986,F ,sandra26@yahoo.com,Austria,11/17/2015,169
+25,George,Kapoor,1/14/1986,M ,george7@yahoo.com,Austria,3/27/2015,92
+26,Alyssa,Bryant,5/22/1986,F ,alyssa63@gmail.com,Austria,7/24/2015,138
+27,Richard,Baker,4/6/1988,M ,richard27@yahoo.com,Denmark,10/19/2014,95
+28,cameron,Jones,2/10/1977,M ,cameron44@yahoo.com,United Kingdom,4/13/2015,90
+29,chloe,Rodriguez,5/22/1986,F ,chloe30@yahoo.com,Austria,1/29/2014,60
+30,Nathan,Lopez,5/3/1988,M ,nathan49@yahoo.com,Denmark,3/12/2014,126
+31,Justin,Li,3/11/1987,M ,justin23@yahoo.com,China,4/28/2015,76
+32,Emma,Bradley,3/11/1973,F ,emma31@gmail.com,United Kingdom,8/7/2014,53
+33,Isabella,Roberts,2/13/1989,F ,isabella43@gmail.com,Denmark,6/27/2014,153
+34,Patrick,Murphy,1/22/1965,M ,patrick20@yahoo.com,USA,7/24/2014,48
+35,melissa,Butler,3/14/1974,F ,melissa9@yahoo.com,United Kingdom,7/10/2015,99
+36,mathew,Sanz,3/22/1989,M ,mathew16@yahoo.com,Denmark,1/29/2015,129
+37,Tabitha,Carlson,4/12/1991,F ,tabitha39@yahoo.com,Switzerland,2/23/2015,29
+38,Lloyd,Saunders,5/26/1986,F ,lloyd0@yahoo.com,Austria,12/29/2015,94
+39,Blake,Miller,2/25/1991,M ,blake5@yahoo.com,Switzerland,10/15/2015,92
+40,Amanda,Ramirez,4/21/1972,F ,amanda16@gmail.com,United Kingdom,12/21/2013,86
+41,Jeffery,Zheng,1/9/1986,M ,jeffery19@yahoo.com,Spain,10/24/2014,130
+42,Evelyn,Chandra,5/5/1992,F ,evelyn2@gmail.com,Switzerland,12/28/2013,91
+43,Wesley,Yang,2/10/1978,M ,wesley5@yahoo.com,Germany,10/13/2014,112
+44,Alexandra,Hill,2/10/1979,F ,alexandra63@gmail.com,Germany,2/3/2015,184
+45,Jose,Scott,5/13/1981,M ,jose50@yahoo.com,Spain,5/5/2015,106
+46,Jacquelyn,Navarro,3/3/1991,F ,jacquelyn10@yahoo.com,Switzerland,3/2/2015,87
+47,Jessica,Gonzales,4/11/1993,F ,jessica41@yahoo.com,Belgium,9/18/2015,171
+48,Savannah,Cox,3/15/1959,F ,savannah9@yahoo.com,USA,9/10/2015,91
+49,chase,Ward,4/1/1989,M ,chase12@yahoo.com,Denmark,2/2/2015,153
+50,Logan,Anderson,6/25/1986,M ,logan61@yahoo.com,France,2/3/2015,182
+51,Louis,Hu,2/14/1986,M ,louis15@yahoo.com,Austria,8/8/2015,181
+52,Juan,Romero,3/15/1978,M ,juan1@yahoo.com,Germany,2/27/2014,123
+53,Sean,Mitchell,6/23/1991,M ,sean43@yahoo.com,Switzerland,3/28/2015,93
+54,melvin,She,1/24/1966,M ,melvin0@yahoo.com,USA,1/18/2013,104
+55,morgan,Perry,5/17/1986,F ,morgan77@yahoo.com,Austria,7/1/2015,118
+56,Xavier,Sanders,3/3/1992,M ,xavier69@yahoo.com,Switzerland,4/8/2015,78
+57,Barbara,Zhao,3/14/1975,F ,barbara20@yahoo.com,United Kingdom,1/21/2016,89
+58,charles,Johnston,5/17/1959,M ,charles4@yahoo.com,USA,5/31/2015,30
+59,Natasha,Gutierrez,3/14/1976,F ,natasha10@yahoo.com,United Kingdom,2/20/2013,173
+60,Willie,She,5/5/1991,M ,willie20@yahoo.com,Switzerland,3/4/2013,125
+61,Byron,Serrano,5/14/1986,M ,byron10@yahoo.com,Austria,10/8/2015,130
+62,Isabella,Price,5/5/1993,F ,isabella11@gmail.com,Belgium,3/23/2013,22
+63,Andy,Alonso,5/15/1986,M ,andy12@gmail.com,Austria,9/4/2015,33
+64,Daniel,Martin,2/16/1959,M ,daniel17@yahoo.com,USA,6/16/2015,148
+65,Daniel,Martinez,5/3/1989,M ,daniel15@yahoo.com,Denmark,4/19/2013,104
+66,caroline,Griffin,3/20/1981,F ,caroline22@yahoo.com,Spain,4/29/2013,102
+67,christine,Chander,2/13/1987,F ,christine11@yahoo.com,France,4/4/2015,90
+68,Roger,Rai,6/25/1986,M ,roger45@yahoo.com,France,9/14/2015,49
+69,calvin,Yuan,1/17/1986,M ,calvin7@yahoo.com,Austria,11/9/2015,137
+70,Eric,Perry,5/15/1991,M ,eric16@gmail.com,Switzerland,3/21/2015,38
+71,Justin,Kumar,5/26/1986,M ,justin25@yahoo.com,Austria,10/25/2015,156
+72,Benjamin,Hughes,2/22/1987,M ,benjamin12@yahoo.com,France,10/1/2015,140
+73,Paige,Stewart,2/13/1988,F ,paige47@yahoo.com,Denmark,7/18/2015,96
+74,James,Moore,5/15/1959,M ,james73@yahoo.com,USA,7/9/2015,138
+75,Emma,Thomas,4/12/1992,F ,emma10@gmail.com,Switzerland,9/17/2015,122
+76,Kaitlyn,Coleman,5/22/1986,F ,kaitlyn73@yahoo.com,Austria,12/18/2015,54
+77,maria,Bailey,2/13/1989,F ,maria9@yahoo.com,Denmark,9/24/2015,91
+78,melissa,Brooks,5/5/1994,F ,melissa24@yahoo.com,Belgium,1/16/2015,46
+79,Kristopher,Gonzalez,3/21/1988,M ,kristopher17@yahoo.com,Spain,8/11/2013,52
+80,Priscilla,Andersen,4/6/1992,F ,priscilla11@yahoo.com,Switzerland,11/27/2014,78
+81,Alberto,Martin,1/24/1985,M ,alberto1@gmail.com,Spain,4/17/2015,100
+82,Nancy,Garcia,2/13/1982,F ,nancy18@yahoo.com,Spain,3/28/2015,34
+83,Kimberly,Peterson,4/25/1988,F ,kimberly8@yahoo.com,Denmark,12/26/2015,47
+84,Richard,Walker,3/17/1980,M ,richard17@yahoo.com,Germany,6/27/2015,109
+85,christopher,Jackson,4/15/1981,M ,christopher12@yahoo.com,Spain,4/21/2015,125
+86,Andrea,Peterson,1/24/1972,F ,andrea5@gmail.com,USA,10/15/2015,142
+87,Jonathan,Thomas,5/15/1991,M ,jonathan64@yahoo.com,Switzerland,7/28/2015,114
+88,Darryl,Liu,5/22/1986,M ,darryl4@yahoo.com,Austria,9/16/2013,52
+89,Jamie,Guo,4/5/1989,F ,jamie21@yahoo.com,Denmark,10/1/2013,155
+90,Rafael,She,1/5/1992,M ,rafael23@yahoo.com,Switzerland,10/13/2013,36
+91,Antonio,Alexander,6/5/1984,M ,antonio19@gmail.com,Spain,10/1/2015,31
+92,Kelvin,Li,5/5/1995,M ,kelvin23@yahoo.com,China,6/11/2015,123
+93,Haley,Sanchez,3/26/1979,F ,haley1@yahoo.com,Germany,1/5/2016,132
+94,Victoria,Alexander,1/15/1986,F ,victoria65@yahoo.com,Austria,5/9/2015,65
+95,maria,Brooks,2/14/1964,F ,maria20@yahoo.com,USA,7/8/2015,107
+96,Dennis,Hu,1/24/1984,M ,dennis22@yahoo.com,Spain,11/1/2013,30
+97,Kevin,Yang,1/30/1971,M ,kevin30@yahoo.com,USA,4/25/2015,74
+98,Joshua,Walker,3/21/1982,M ,joshua25@yahoo.com,Spain,3/5/2015,80
+99,connor,Ross,1/9/1972,M ,connor0@yahoo.com,USA,12/18/2013,57
+100,Tasha,Sharma,3/22/1991,F ,tasha10@yahoo.com,Switzerland,3/25/2015,145
+101,Dawn,Pal,3/8/1994,F ,dawn36@yahoo.com,Belgium,12/3/2015,85
+102,meredith,Vance,6/22/1986,F ,meredith2@yahoo.com,France,12/15/2013,56
+103,Raul,Raji,4/25/1981,M ,raul19@yahoo.com,Spain,4/20/2015,73
+104,Steve,Li,5/15/1986,M ,steve7@yahoo.com,China,10/18/2015,98
+105,Kara,Becker,4/6/1992,F ,kara18@yahoo.com,Switzerland,1/21/2014,92
+106,carl,Tang,3/25/1984,M ,carl4@yahoo.com,Spain,4/3/2015,73
+107,Abigail,Wood,3/10/1979,F ,abigail27@gmail.com,Germany,12/26/2015,128
+108,mason,Howard,6/5/1986,M ,mason11@yahoo.com,Austria,7/17/2015,111
+109,Ethan,Diaz,3/21/1989,M ,ethan18@gmail.com,Denmark,11/25/2015,98
+110,mariah,Brooks,1/30/1972,F ,mariah1@yahoo.com,USA,10/28/2014,119
+111,Joan,Ross,6/22/1992,F ,joan8@yahoo.com,Switzerland,7/8/2015,138
+112,Jada,Rivera,2/13/1983,F ,jada8@yahoo.com,Spain,11/15/2015,92
+113,Whitney,Suri,1/30/1972,F ,whitney0@yahoo.com,USA,4/28/2014,125
+114,Richard,Patterson,5/13/1986,M ,richard65@yahoo.com,Austria,11/29/2015,174
+115,marcus,Jenkins,5/1/1983,M ,marcus56@yahoo.com,Spain,12/14/2015,16
+116,mary,Turner,4/14/1988,F ,mary18@yahoo.com,Denmark,7/8/2015,96
+117,Terrence,Andersen,4/21/1986,M ,terrence13@yahoo.com,Austria,12/25/2015,117
+118,clarence,Xie,3/10/1979,M ,clarence18@yahoo.com,Germany,5/10/2014,103
+119,margaret,Xu,5/6/1996,F ,margaret18@yahoo.com,China,5/28/2014,131
+120,Rachael,Prasad,2/10/1995,F ,rachael9@yahoo.com,Belgium,11/16/2015,154
+121,Karen,Cai,5/3/1981,F ,karen30@yahoo.com,Spain,5/25/2014,66
+122,Orlando,Blanco,2/16/1988,M ,orlando15@gmail.com,Denmark,5/1/2014,117
+123,Tony,Xu,6/23/1977,M ,tony8@yahoo.com,United Kingdom,5/1/2014,147
+124,Andres,Nath,2/13/1987,M ,andres15@gmail.com,France,12/16/2015,148
+125,Gina,Serrano,6/3/1986,F ,gina17@yahoo.com,Austria,7/18/2015,84
+126,Brandy,Mehta,5/15/1972,F ,brandy10@yahoo.com,United Kingdom,2/5/2015,103
+127,max,Ruiz,6/5/1986,M ,max3@yahoo.com,France,7/31/2015,73
+128,Rafael,Lu,4/12/1979,M ,rafael12@yahoo.com,Germany,9/19/2015,47
+129,morgan,Howard,5/6/1978,F ,morgan59@yahoo.com,Germany,7/9/2013,109
+130,Tiffany,Ye,1/19/1983,F ,tiffany9@yahoo.com,Spain,8/18/2015,99
+131,Victoria,Washington,4/5/1964,F ,victoria60@yahoo.com,USA,5/14/2015,155
+132,Dana,Vazquez,1/30/1979,F ,dana7@yahoo.com,Germany,4/30/2015,113
+133,Lane,Sacksteder,4/15/1994,F ,lane1@yahoo.com,Belgium,9/30/2015,169
+134,Theodore,Romero,5/22/1986,M ,theodore9@yahoo.com,Austria,4/25/2015,122
+135,Raymond,Subram,4/8/1974,M ,raymond15@yahoo.com,United Kingdom,9/25/2014,137
+136,carl,Yuan,5/3/1975,M ,carl6@yahoo.com,United Kingdom,9/26/2014,159
+137,Grant,Raje,1/14/1985,M ,grant16@yahoo.com,Spain,10/12/2014,130
+138,Lucas,Rivera,1/14/1979,M ,lucas80@yahoo.com,Germany,2/26/2015,102
+139,Danny,Ruiz,2/13/1984,M ,danny2@yahoo.com,Spain,7/23/2015,127
+140,Bailey,Young,5/1/1983,F ,bailey37@yahoo.com,Spain,5/5/2015,27
+141,Victoria,Richardson,4/6/1989,F ,victoria36@yahoo.com,Denmark,1/17/2014,72
+142,Vincent,Zhao,2/10/1980,M ,vincent10@yahoo.com,Germany,1/18/2016,109
+143,micah,Sun,5/1/1984,M ,micah0@yahoo.com,Spain,3/1/2014,147
+144,micah,Gao,5/22/1986,M ,micah2@yahoo.com,Austria,9/16/2014,110
+145,Harold,Sanchez,4/1/1987,M ,harold17@yahoo.com,Mexico,7/6/2015,139
+146,micheal,Vazquez,2/10/1981,M ,micheal10@yahoo.com,Germany,8/21/2015,18
+147,Hector,Romero,4/25/1982,M ,hector7@yahoo.com,Spain,4/6/2015,66
+148,Joan,Martin,3/26/1985,F ,joan19@yahoo.com,Spain,3/23/2013,122
+149,Tyrone,Navarro,1/30/1981,M ,tyrone9@yahoo.com,Germany,3/27/2013,160
+150,Troy,Sanchez,3/10/1970,M ,troy22@yahoo.com,USA,3/27/2013,50
+151,Kendra,Ortega,3/14/1977,F ,kendra22@yahoo.com,United Kingdom,5/4/2015,153
+152,Ashlee,Moyer,1/30/1973,F ,ashlee2@gmail.com,United Kingdom,1/31/2015,142
+153,Jimmy,Sanz,3/10/1979,M ,jimmy24@yahoo.com,Germany,6/12/2015,65
+154,Jacquelyn,Romero,3/21/1983,F ,jacquelyn9@yahoo.com,Spain,2/14/2015,139
+155,Anthony,Anderson,3/15/1979,M ,anthony19@gmail.com,Germany,6/12/2013,157
+156,Jose,Hughes,2/14/1987,M ,jose34@yahoo.com,France,3/17/2015,105
+157,Jason,Hayes,2/13/1972,M ,jason20@yahoo.com,USA,10/2/2015,104
+158,Nicole,Simmons,4/6/1990,F ,nicole64@yahoo.com,Denmark,9/7/2015,155
+159,Jan,Cox,1/24/1967,F ,jan7@yahoo.com,USA,9/9/2015,151
+160,clinton,Gill,3/8/1995,M ,clinton10@yahoo.com,Belgium,4/2/2015,53
+161,Bridget,Yuan,2/14/1981,F ,bridget8@yahoo.com,Germany,4/10/2015,120
+162,Isabella,Evans,5/1/1985,F ,isabella33@gmail.com,Spain,1/16/2016,53
+163,Gregory,Nara,3/14/1964,M ,gregory20@yahoo.com,USA,7/22/2014,65
+164,Bruce,Moreno,3/10/1971,M ,bruce29@yahoo.com,USA,7/7/2014,153
+165,Kaylee,Allen,3/10/1956,F ,kaylee46@yahoo.com,USA,7/12/2014,105
+166,Andrew,Clark,2/13/1954,M ,andrew26@gmail.com,USA,6/25/2015,99
+167,Seth,Lewis,3/25/1973,M ,seth20@yahoo.com,United Kingdom,7/1/2013,123
+168,Bryan,Rogers,3/8/1975,M ,bryan20@yahoo.com,United Kingdom,6/23/2015,128
+169,mackenzie,King,2/5/1975,F ,mackenzie40@yahoo.com,United Kingdom,10/1/2014,130
+170,Philip,Suarez,5/13/1986,M ,philip18@yahoo.com,Austria,7/21/2015,32
+171,Derek,Sharma,4/6/1991,M ,derek8@yahoo.com,Switzerland,2/26/2015,108
+172,mindy,Tang,4/21/1980,F ,mindy8@yahoo.com,Germany,5/4/2015,90
+173,makayla,Morgan,2/20/1981,F ,makayla17@yahoo.com,Germany,5/23/2015,94
+174,Dale,Nath,4/6/1992,M ,dale16@yahoo.com,Switzerland,7/6/2015,88
+175,Darrell,Shan,2/13/1985,M ,darrell18@yahoo.com,Spain,10/27/2015,121
+176,Samuel,Sharma,2/9/1976,M ,samuel27@yahoo.com,United Kingdom,10/24/2015,110
+177,carolyn,Ruiz,1/22/1964,F ,carolyn24@yahoo.com,USA,12/18/2015,116
+178,Savannah,Evans,1/19/1964,F ,savannah21@yahoo.com,USA,3/7/2013,78
+179,marco,Tanara,5/17/1994,F ,marco21@yahoo.com,Belgium,9/7/2015,119
+180,Rebekah,Srini,3/22/1978,F ,rebekah8@yahoo.com,Germany,10/7/2015,21
+181,melissa,Bennett,5/15/1987,F ,melissa20@yahoo.com,Mexico,12/8/2015,109
+182,Arthur,Vazquez,2/25/1985,M ,arthur39@gmail.com,Spain,5/13/2015,128
+183,micheal,Ramos,3/17/1994,M ,micheal13@yahoo.com,Belgium,6/23/2015,135
+184,Alisha,Xu,2/23/1973,F ,alisha12@gmail.com,United Kingdom,6/29/2015,37
+185,April,Shen,1/9/1969,F ,april2@gmail.com,USA,2/8/2014,112
+186,Krista,Ortega,5/17/1960,F ,krista20@yahoo.com,USA,9/1/2015,70
+187,Leah,Lu,3/10/1961,F ,leah8@yahoo.com,USA,9/30/2015,60
+188,Danny,Martin,1/30/1993,M ,danny0@yahoo.com,Switzerland,11/18/2015,81
+189,Brett,Madan,5/1/1987,M ,brett7@yahoo.com,Mexico,5/28/2014,102
+190,Heather,Sun,2/13/1979,F ,heather12@yahoo.com,Germany,4/7/2015,97
+191,Joe,Alonso,1/30/1974,M ,joe31@yahoo.com,United Kingdom,1/5/2014,62
+192,Xavier,Hayes,4/21/1964,M ,xavier63@yahoo.com,USA,10/29/2015,165
+193,Allen,Chandra,2/9/1992,M ,allen2@gmail.com,Switzerland,7/9/2015,104
+194,Alexa,Ward,1/9/1986,F ,alexa10@gmail.com,Austria,9/9/2015,57
+195,Thomas,King,2/10/1981,M ,thomas55@yahoo.com,Germany,4/5/2015,77
+196,Victor,Vazquez,2/22/1964,M ,victor15@yahoo.com,USA,9/3/2015,168
